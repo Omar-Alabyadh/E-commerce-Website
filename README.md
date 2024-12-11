@@ -1,19 +1,15 @@
 <div align="center">
     
-  <h2 align="center">Omar Alabyadh Front-End Developer Portfolio</h2>
+  <h2 align="center">E-commerce Website</h2>
 
-  This repository contains the source code for my portfolio website showcasing my work as a front-end web developer.
+  This is an e-commerce website, and the site is designed to be responsive and adaptable to all screen sizes, providing a seamless user experience across different devices.
+HTML, CSS, and JavaScript were used.
 
-  <a href="https://omar-alabyadh.github.io/Portfolio/"><strong>➥ Live Demo</strong></a>
+  <a href="https://omar-alabyadh.github.io/E-commerce Website/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
 <br />
-
-# E-commerce Website
-
-This is an e-commerce website, and the site is designed to be responsive and adaptable to all screen sizes, providing a seamless user experience across different devices.
-HTML, CSS, and JavaScript were used.
 
 ## Features
 

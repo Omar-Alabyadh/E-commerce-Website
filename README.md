@@ -5,7 +5,7 @@
   This is an e-commerce website, and the site is designed to be responsive and adaptable to all screen sizes, providing a seamless user experience across different devices.
 HTML, CSS, and JavaScript were used.
 
-  <a href="https://omar-alabyadh.github.io/E-commerce Website/"><strong>➥ Live Demo</strong></a>
+  <a href="https://omar-alabyadh.github.io/E-commerce-Website/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
